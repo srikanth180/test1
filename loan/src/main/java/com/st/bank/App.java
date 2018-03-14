@@ -1,4 +1,4 @@
-package com.st.bank
+package com.st.bank;
 
 public class App 
 {
